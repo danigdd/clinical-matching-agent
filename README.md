@@ -51,7 +51,7 @@ Pipeline:
 
 ---
 
-## 🧑‍⚕️ Example Input
+## Example Input
 
 ```json
 {
