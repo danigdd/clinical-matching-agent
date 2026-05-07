@@ -23,7 +23,7 @@ Clinical trial recruitment is inefficient:
 - Many eligible patients never find suitable trials
 - Physicians cannot manually review thousands of studies
 
-👉 This project automates the matching process using structured reasoning.
+This project automates the matching process using structured reasoning.
 
 ---
 
